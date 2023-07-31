@@ -1,0 +1,21 @@
+house_id,house_type,bhk_details,bed_count,furnishing_type,beds_vacant
+1,apartment,3 BHK,5,unfurnished,2
+2,apartment,3 BHK,3,unfurnished,1
+3,apartment,3 BHK,6,fully-furnished,4
+4,apartment,2 BHK,2,fully-furnished,0
+5,independent,4 BHK,4,fully-furnished,2
+6,apartment,3 BHK,3,semifurnished,1
+7,apartment,3 BHK,3,semifurnished,0
+8,apartment,2 BHK,4,fully-furnished,1
+9,independent,1 BHK,2,unfurnished,0
+10,independent,3 BHK,3,fully-furnished,1
+11,apartment,1 BHK,1,unfurnished,0
+12,independent,1 BHK,2,unfurnished,1
+13,independent,2 BHK,4,unfurnished,2
+14,apartment,3 BHK,3,fully-furnished,0
+15,indepemdent,1 BHK,2,unfurnished,1
+16,apartment,3 BHK,3,fully-furnished,0
+17,independent,3 BHK,3,fully-furnished,1
+18,independent,2 BHK,2,fully-furnished,1
+19,independent,3 BHK,3,fully-furnished,1
+20,independent,1 BHK,2,fully-furnished,2
